@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src="assets/Mobile (1).png" width="100%">
+  <img alt="calendario da copa" src="assets/Mobile (1).png" width="50%">
 </p>
 
 <br>
