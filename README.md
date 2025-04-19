@@ -16,14 +16,12 @@
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src="assets/Mobile (1).png" width="50%">
+  <img alt="calendario da copa" src="assets/capa.png" width="100%">
 </p>
 
-<br>
 
-<p align="center">
-  <img alt="calendario da copa" src="assets/Desktop (1).png" width="100%">
-</p>
+
+
 
 ## 🚀 Tecnologias
 
